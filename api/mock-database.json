@@ -1,0 +1,68 @@
+[
+    {
+        "title":"Sonic the Hedgehog",
+        "photo":"https://upload.wikimedia.org/wikipedia/en/b/ba/Sonic_the_Hedgehog_1_Genesis_box_art.jpg",
+        "description": "The first game in the Sonic the Hedgehog franchise, it was released in North America in June 1991 and in PAL regions and Japan the following month. Players control Sonic the Hedgehog, who can run at supersonic speeds; Sonic sets out on a quest to defeat Dr. Robotnik, a scientist who has imprisoned animals in robots and seeks the powerful Chaos Emeralds. The gameplay involves collecting rings as a form of health, and a simple control scheme, with jumping and attacking controlled by a single button.",
+        "shortDescription":"Sonic the Hedgehog is a platform game developed by Sonic Team and published by Sega for the Sega Genesis."
+    },
+    {
+        "title":"Sonic the Hedgehog 2",
+        "photo":"https://upload.wikimedia.org/wikipedia/en/0/0c/Sonic_2_US_Cover.jpg",
+        "description":"It follows Sonic as he attempts to stop Doctor Robotnik from stealing the Chaos Emeralds to power his space station. Like the first Sonic the Hedgehog (1991), players traverse side-scrolling levels at high speeds while collecting rings, defeating enemies, and fighting bosses. Sonic 2 introduces Sonic's sidekick Miles 'Tails' Prower and features faster gameplay, larger levels, a multiplayer mode, and special stages featuring pre-rendered 3D graphics.",
+        "shortDescription":"Sonic the Hedgehog 2 is a 1992 platform game developed by Sega Technical Institute (STI) for the Sega Genesis."
+    },
+    {
+        "title":"Sonic the Hedgehog CD",
+        "photo":"https://upload.wikimedia.org/wikipedia/en/4/4c/Sonic_the_Hedgehog_CD_North_American_cover_art.jpg",
+        "description":"The story follows Sonic the Hedgehog as he attempts to save an extraterrestrial body, Little Planet, from Doctor Robotnik. Like other Sonic games, Sonic runs and jumps through several themed levels while collecting rings and defeating robots. Sonic CD is distinguished by its time travel feature, a key aspect to the story and gameplay. By traveling through time, players can access different versions of stages, featuring alternative layouts, music, and graphics.",
+        "shortDescription":"Sonic the Hedgehog CD is a 1993 platform game for the Sega CD developed and published by Sega."
+    },
+    {
+        "title":"Sonic the Hedgehog 3",
+        "photo":"https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Sonic3-box-us-225.jpg/220px-Sonic3-box-us-225.jpg",
+        "description":"Like previous Sonic games, players traverse side-scrolling levels while collecting rings and defeating enemies. They control Sonic and Tails, who attempt to retrieve the Chaos Emeralds to stop the evil Doctor Robotnik from relaunching his space station, the Death Egg, after it crash-lands on a mysterious floating island. Sonic 3 introduces Knuckles the Echidna, the island guardian, who lays traps for Sonic and Tails.",
+        "shortDescription":"Sonic the Hedgehog 3 is a 1994 platform game developed and published by Sega for the Genesis."
+    },
+    {
+        "title":"Sonic & Knuckles",
+        "photo":"https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Sonic_%26_Knuckles_cover.jpg/220px-Sonic_%26_Knuckles_cover.jpg",
+        "description":"Players control Sonic the Hedgehog and Knuckles the Echidna in their quests to save Angel Island; Sonic tries to prevent Doctor Robotnik from relaunching his orbital weapon, the Death Egg, while Knuckles scuffles with Robotnik's minion, EggRobo. Like previous Sonic games, players traverse side-scrolling levels at high speeds while collecting rings and defeating enemies",
+        "shortDescription":"Sonic & Knuckles is a 1994 platform game developed and published by Sega."
+    },
+    {
+        "title":"Sonic Adventure",
+        "photo":"https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Sonic_Adventure.PNG/220px-Sonic_Adventure.PNG",
+        "description":"It follows Sonic the Hedgehog, Miles 'Tails' Prower, Knuckles the Echidna, Amy Rose, Big the Cat, and E-102 Gamma in their quests to collect the Chaos Emeralds and stop Doctor Robotnik from unleashing Chaos, an ancient evil. Controlling one of the six characters—each with their own abilities—players complete levels to progress the story. Sonic Adventure retains many elements from prior Sonic games, such as power-ups and the ring-based health system. Outside the main game, players can play minigames like racing and interact with Chao, a virtual pet.",
+        "shortDescription":"Sonic Adventure is a 1998 platform game for the Sega Dreamcast and the first main Sonic the Hedgehog game to feature 3D gameplay."
+    },
+    {
+        "title":"Sonic Adventure 2",
+        "photo":"https://upload.wikimedia.org/wikipedia/en/9/99/Sonic_Adventure_2_cover.png",
+        "description":"It was the final Sonic the Hedgehog game for the Dreamcast after Sega left the home console market. It features two good-vs-evil stories: Sonic the Hedgehog, Tails, and Knuckles the Echidna attempt to save the world, while Shadow the Hedgehog, Doctor Eggman, and Rouge the Bat attempt to conquer it. The stories are divided into three gameplay styles: fast-paced platforming for Sonic and Shadow, multi-directional shooting for Tails and Eggman, and action-exploration for Knuckles and Rouge.",
+        "shortDescription":"Sonic Adventure 2 is a 2001 platform game developed by Sonic Team USA and published by Sega."
+    },
+    {
+        "title":"Sonic Heroes",
+        "photo":"https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Sonic_Heroes_cover.png/220px-Sonic_Heroes_cover.png",
+        "description":"The player races a team of series characters through levels to amass rings, defeat robots, and collect the seven Chaos Emeralds needed to defeat Doctor Eggman. Within each level, the player switches between the team's three characters, who each have unique abilities, to overcome obstacles. Sonic Heroes abandons the action-adventure and exploration-based gameplay of its predecessors Sonic Adventure (1998) and Sonic Adventure 2 (2001) and instead returns to the linear style of Sega Genesis-era Sonic games.",
+        "shortDescription":"Sonic Heroes is a 2003 3D platform game developed by Sonic Team USA and published by Sega as part of the Sonic the Hedgehog series."
+    },
+    {
+        "title":"Sonic the Hedgehog (2006)",
+        "photo":"https://upload.wikimedia.org/wikipedia/en/d/d1/Sonic_the_Hedgehog_Next-Gen_Box_Art.JPG",
+        "description":"It was produced in commemoration of the Sonic series' 15th anniversary, and intended as a reboot for the seventh-generation video game consoles. Players control Sonic, Shadow, and the new character Silver, who battle Solaris, an ancient evil pursued by Doctor Eggman. Each playable character has his own campaign and abilities, and must complete levels, explore hub worlds and fight bosses to advance the story. In multiplayer modes, players can work cooperatively to collect Chaos Emeralds or race to the end of a level.",
+        "shortDescription":"Sonic the Hedgehog (commonly referred to as Sonic '06) is a 2006 platform game developed by Sonic Team and published by Sega."
+    },
+    {
+        "title":"Sonic and the Secret Rings",
+        "photo":"https://upload.wikimedia.org/wikipedia/en/8/87/Sonic_and_the_Secret_Rings_coverart.png",
+        "description":"A spin-off from the Sonic the Hedgehog series, it is the first title in the franchise for the system, and follows Sonic the Hedgehog's quest to stop an evil genie named the Erazor Djinn. In addition to the basic platforming gameplay of previous Sonic titles, Secret Rings uses a system of experience points and levels, as well as special moves that are unlocked via leveling up.",
+        "shortDescription":"Sonic and the Secret Rings is a 2007 platform video game developed by Sonic Team and published by Sega for the Wii."
+    },
+    {
+        "title":"Sonic Unleashed",
+        "photo":"https://upload.wikimedia.org/wikipedia/en/a/a0/Sonic_unleashed_boxart.jpg",
+        "description":"The story follows Sonic as he attempts to restore the world after his nemesis Doctor Eggman shatters it with a powerful laser to unleash Dark Gaia, an ancient evil, while dealing with having become a 'Werehog', a werewolf-like transformation, which he gains after coming into contact with the energy of Dark Gaia. Gameplay features two distinct styles, with each being played either during daytime or nighttime. Daytime stages incorporate Sonic's traditional platforming and trademark speed, with a combination of behind-the-back third-person viewpoints and 2D side-scroller platforming; gameplay seamlessly transitions between these two views. Night-time levels see Sonic transform into the Werehog; gameplay slows down to accommodate greater platform play, and involves combat against waves of enemies using the Werehog's brute strength.",
+        "shortDescription":"Sonic Unleashed is a 2008 platform video game in the Sonic the Hedgehog series."
+    }
+]
