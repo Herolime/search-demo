@@ -11,7 +11,9 @@
     ],
     "parserOptions": {
         "ecmaVersion": "latest",
-        "sourceType": "module"
+        "sourceType": "module",
+        "tsconfigRootDir": "../front-end",
+        "project": ["tsconfig.json"]
     },
     "plugins": [
         "react"
