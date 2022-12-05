@@ -1,4 +1,5 @@
 import express from "express"
+import cors from "cors"
 import dotenv from "dotenv"
 import Mock from '../mock-database.json'
 
@@ -10,6 +11,8 @@ dotenv.config();
 const port = process.env.SERVER_PORT;
 
 const app = express();
+
+app.use(cors())
 
 // define a route handler for the default home page
 app.get("/", (req, res) => {
